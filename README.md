@@ -16,18 +16,31 @@ CSV Export: Outputs generated data into a structured CSV format for easy downloa
 Project Structure :
 
 ai_user_story_agent/
+
 ├── main.py                  # Entry point for the application
+
 ├── app/
 │   ├── __init__.py          # Initializes the app module
+
 │   ├── file_upload.py       # Handles PDF uploads and text extraction
+
 │   ├── question_answer.py   # Manages agent-user interaction
+
 │   ├── vector_store.py      # Manages vector database interactions
+
 │   ├── story_generator.py   # Generates personas, user stories, and business scenarios
+
 │   ├── export.py            # Handles CSV export
+
 │   └── utils.py             # Utility functions
+
 ├── requirements.txt         # Dependencies
+
 ├── README.md                # Project documentation
+
 └── data/
     ├── uploads/             # Stores uploaded files
+    
     ├── processed/           # Processed data for debugging
+    
     └── outputs/             # Generated CSV files
