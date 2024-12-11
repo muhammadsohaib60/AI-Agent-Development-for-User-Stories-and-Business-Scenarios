@@ -90,10 +90,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### Example Commands
 
-- **Run the application:**
-  ```bash
-  python main.py
-  ```
 - **Export to CSV:** Use the UI to trigger the export module.
 - **Debugging Data:** Processed files are available in `data/processed/` for debugging purposes.
 
