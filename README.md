@@ -82,9 +82,7 @@ pip install -r requirements.txt
 
 Feel free to submit issues or pull requests to improve the project.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
