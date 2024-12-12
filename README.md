@@ -64,13 +64,6 @@ ai_user_story_agent/
   - `processed/`: Intermediate data for debugging and further processing.
   - `outputs/`: Final generated CSV files.
 
-## Dependencies
-
-The required Python libraries are listed in `requirements.txt`. Install them with:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Upload a PDF document via the application's interface.
