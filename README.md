@@ -78,10 +78,3 @@ Feel free to submit issues or pull requests to improve the project.
 
 
 ---
-
-### Example Commands
-
-- **Export to CSV:** Use the UI to trigger the export module.
-- **Debugging Data:** Processed files are available in `data/processed/` for debugging purposes.
-
-Happy coding!
