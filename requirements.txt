@@ -1,0 +1,9 @@
+langchain==0.0.275       # For creating conversational AI agents and workflows
+langflow==0.1.2          # For visualizing and managing LangChain workflows
+pdfminer.six==20221105   # For extracting text from PDF documents
+openai==0.27.9           # For integrating with OpenAI API for generative responses
+faiss-cpu==1.7.4         # For vector database storage and similarity search
+numpy==1.23.5            # For numerical operations and data manipulation
+pandas==2.0.3            # For working with CSVs and dataframes
+flask==3.0.0             # For creating a simple web interface for user interaction
+gunicorn==21.0.0         # For deploying the Flask app in a production environment
