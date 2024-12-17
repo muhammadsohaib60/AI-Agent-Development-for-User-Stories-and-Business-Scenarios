@@ -1,37 +1,7 @@
-# Core dependencies
-langchain==0.0.240
-langflow==0.1.6
-
-# Vector database (choose one based on preference)
-chromadb==0.3.26  # Chroma - free, open-source
-faiss-cpu==1.7.4  # FAISS - local storage, CPU version
-
-# LLM integrations
-openai==0.29.0  # For GPT-based agents
-tiktoken==0.4.0  # Tokenizer for OpenAI
-
-# PDF processing
-pypdf==3.12.0  # For extracting text from PDFs
-
-# Data processing and export
-pandas==2.1.0  # For CSV export
-numpy==1.26.0  # For data handling
-
-# Additional tools for validation and enhancements
-pygments==2.16.1  # For syntax highlighting (if needed)
-regex==2024.9.4  # For advanced text processing
-
-# FastAPI (Optional - for building APIs if needed)
-fastapi==0.102.0
-uvicorn==0.23.0  # ASGI server for FastAPI
-
-# Testing and Debugging
-pytest==7.5.0  # For testing
-httpx==0.24.1  # For making HTTP requests in tests
-pytest-mock==3.11.1  # For mocking in tests
-
-# Environment variables and configuration
-python-dotenv==1.0.0
-
-# General utilities
-typer==0.9.1  # CLI tools (if needed for LangFlow commands)
+langchain
+openai
+chromadb
+pypdf
+tiktoken
+panel
+notebook
