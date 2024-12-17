@@ -21,7 +21,7 @@ To run the application, the Flask development server is started, and the applica
 ## how to run:
 ### clone the repo: 
 ```
-git clone https://github.com/ananya-prashanth/PDF-question-answering-NLP.git
+git clone https://github.com/muhammadsohaib60/AI-Agent-Development-for-User-Stories-and-Business-Scenarios.git
 ```
 ### running the Flask app:
 ```
